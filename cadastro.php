@@ -1,7 +1,10 @@
+<?php
+
+?>
 <!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
+<html lang="pt-br">
+	<head>
+		<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
 	<link rel="stylesheet" type="text/css" href="css/reset.css">
 	<link rel="stylesheet" type="text/css" href="css/estilo.css">
@@ -9,16 +12,16 @@
 	<link href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&display=swap" rel="stylesheet">
 
 	<title>Projeto Acesibilidade</title>
-</head>
-<body>
-	<header class="fixo">
+	<head>
+	<body>
+		<header class="fixo">
 		<h1><img class="imglogo" src="img/4.png"></h1>
 		<nav class="menu-opcoes">
 			<ul class="ajustes">
 				<li><a href="index.html">Inicio</a></li>
                 
 				</header>
-     <div class="container">
+		 <div class="container">
 	<form class="formulario" method="post"> 
         <h1 class="titulos"> Envie seu cadastro preenchendo o formulário abaixo</h1>
         
@@ -57,6 +60,5 @@
 
 
 </form>
-</div>
-</body>
+	</body>
 </html>
